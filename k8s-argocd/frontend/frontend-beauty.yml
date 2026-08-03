@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CloudTechDevOps/kubernetes-veeraops-ecommerce-microservices-app.git
-    path: frontend/beauty
+    repoURL: 
+    path: frontend/beautyhttps://github.com/satya231ss/kubernetes-veeraops-ecommerce-microservices-app.git
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc
